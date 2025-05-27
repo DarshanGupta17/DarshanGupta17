@@ -9,10 +9,7 @@ I'm a full-stack developer working with Django, DRF, and React, with a strong fo
 
 📫 Reach me at: guptadarshan786e@email.com
 
+### GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DarshanGupta17&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarshanGupta17&layout=compact&theme=radical)
 
-#### 🖼 Use Badges
-Add shields.io badges (e.g., Python, Django, React, license) for flair:
-```md
-![Python](https://img.shields.io/badge/python-3.10-blue)
-![Django](https://img.shields.io/badge/django-4.2-green)
-![License](https://img.shields.io/github/license/yourusername/yourproject)
